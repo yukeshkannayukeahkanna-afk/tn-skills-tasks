@@ -105,8 +105,6 @@ Scikit-learn
 ## Author
 
 **Yukesh**  
-- Passionate about databases and SQL practice  
-- Continuously learning and sharing SQL projects on GitHub  
 
 ----
 
